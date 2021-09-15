@@ -2,6 +2,10 @@
 
 simple shell script to crawl websites using wget from https://twitter.com/jonathandata1/status/1437260781503008768
 
+#Requirements 
+
+install xurls  :  https://github.com/mvdan/xurls
+
 #Usage 
 
 1 - To get only js files 
